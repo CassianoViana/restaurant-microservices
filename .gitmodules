@@ -1,0 +1,6 @@
+[submodule "OrderService"]
+	path = OrderService
+	url = https://github.com/CassianoViana/OrderService
+[submodule "MenuService"]
+	path = MenuService
+	url = https://github.com/CassianoViana/MenuService
